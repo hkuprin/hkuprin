@@ -1,5 +1,11 @@
 ## Summary
 
+**Hello, 👋 I'm Alexander Kuprin.**  
+
+I specialize in developing applications and websites, with additional experience in game development and modifications. Currently, I serve as the **Technical Lead** of the **Microprocessor Laboratory** (business solutions development) at **GBPOU SO "TPK"** and teach **Web Programming** (HTTP, HTML, CSS, JS, Node.js, PHP) for second- and third-year students.  
+
+In my free time, I work on **"NET Online"**, a project built on the IX-Ray engine.
+
 <details>
 <summary>
   About me
