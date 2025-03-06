@@ -34,6 +34,8 @@ In my free time, I work on **"NET Online"**, a project built on the IX-Ray engin
 - **Lua**
 - **Python**
 - **Java** (soft of)
+- MySQL
+- Transact-SQL
 
 ### Game Engines
 
