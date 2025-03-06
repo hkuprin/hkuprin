@@ -1,16 +1,42 @@
-## Hi there 👋
+## Summary
 
-<!--
-**hkuprin/hkuprin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>
+  About me
+</summary>
 
-Here are some ideas to get you started:
+## Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Organization | Position | Period |
+| - | - | - |
+| [Tolyatti Polytechnic College](https://tpcol.ru) | Programmer | August 2024 - October 2024 |
+| [Tolyatti Polytechnic College](https://tpcol.ru) | Web Development Teacher | September 2024 - Present |
+| [Tolyatti Polytechnic College](https://tpcol.ru) | System Administrator | October 2024 - Present |
+| [Tolyatti Polytechnic College](https://tpcol.ru) | Technical Lead, Microprocessors Lab | January 2025 - Present |
+
+## Skills
+
+### Application Development
+
+- **C** (ARM-based microcontrollers & microprocessors)
+- **C++** (soft of)
+- **C#**
+- **PHP**
+- **JavaScript** (full-cycle CRUD)
+- **NodeJS**
+- **CSS**
+- **Lua**
+- **Python**
+- **Java** (soft of)
+
+### Game Engines
+
+- X-Ray Engine
+- Unity
+
+### 3D Graphics
+
+- 3Ds Max
+- Blender (soft of)
+
+</details>
