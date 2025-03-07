@@ -13,7 +13,7 @@ In my free time, I work on **["NET Online"](https://netonline.team)**, a project
 ## 💾 Summary
 
 - **C** (ARM-based microcontrollers & microprocessors)
-- **C++** (soft of)
+- **C++** (sort of)
 - **C#**
 - **PHP**
 - **JavaScript** (full-cycle CRUD)
@@ -21,7 +21,7 @@ In my free time, I work on **["NET Online"](https://netonline.team)**, a project
 - **CSS**
 - **Lua**
 - **Python**
-- **Java** (soft of - I don't use it)
+- **Java** (sort of - I don't use it)
 - **MySQL**
 - **Transact-SQL**
 - **Windows Forms**
@@ -35,7 +35,7 @@ In my free time, I work on **["NET Online"](https://netonline.team)**, a project
 ### 🖼️ Graphics
 
 - **3Ds Max**
-- **Blender (soft of)**
+- **Blender (sort of)**
 - **Adobe Photoshop**
 - **Adobe Illustrator**
 - **Figma**
