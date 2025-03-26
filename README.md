@@ -29,8 +29,9 @@ In my free time, I work on **["NET Online"](https://netonline.team)**, a project
 
 ### 🚀 Engines
 
-- **X-Ray Engine** and [IX-Ray Engine](https://github.com/ixray-team)
+- **X-Ray Engine** and [IX-Ray Engine](https://github.com/ixray-team) (sort of)
 - **Unity**
+- **Quest Soft Player**
 
 ### 🖼️ Graphics
 
