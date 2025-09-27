@@ -1,76 +1,40 @@
 # **Hello, 👋 I'm Alexander Kuprin.**  
 
-I specialize in developing applications and websites, with additional experience in game development and modifications. Currently, I serve as the **Technical Lead** of the **Microprocessor Laboratory** (business solutions development) at **GBPOU SO "TPK"** and teach **Web Programming** (HTTP, HTML, CSS, JS, Node.js, PHP) for second- and third-year students.  
+I specialize in developing applications and websites, with additional experience in game development and modifications.  
 
 In my free time, I work on **["NET Online"](https://netonline.team)**, a project built on the [IX-Ray Engine](https://github.com/ixray-team).
 
-<details>
-<summary>
-<h1>📖 Skills</h1>
-</summary>
+## Work
+| # | Organization | Position | Period |
+| - | - | - | - |
+| 1 | [Tolyatti Polytechnic College](https://tpcol.ru) | Programmer | August 2024 - October 2024 (Raising) |
+| 2 | [Tolyatti Polytechnic College](https://tpcol.ru) | Web Development Teacher | September 2024 - Present |
+| 3 | [Tolyatti Polytechnic College](https://tpcol.ru) | System Administrator | October 2024 - Present |
+| 4 | [Tolyatti Polytechnic College](https://tpcol.ru) | Technical Lead, Microprocessors Lab | January 2025 - September 2025 |
+| 5 | [EST Siberia](https://siberia.1163.ru) | Co-founder | March 2025 - Present |
 
-
-## 💾 Summary
-
-- **C** (ARM-based microcontrollers & microprocessors)
-- **C++** (sort of)
-- **C#**
-- **PHP**
-- **JavaScript** (full-cycle CRUD)
-- **NodeJS**
-- **CSS**
-- **Lua**
-- **Python**
-- **Java** (sort of - I don't use it)
-- **MySQL**
-- **Transact-SQL**
-- **Windows Forms**
-- **Windows Presentation Foundation**
-
-### 🚀 Engines
-
-- **X-Ray Engine** and [IX-Ray Engine](https://github.com/ixray-team) (sort of)
-- **Unity**
-- **Quest Soft Player**
-
-### 🖼️ Graphics
-
-- **3Ds Max**
-- **Blender (sort of)**
-- **Adobe Photoshop**
-- **Adobe Illustrator**
-- **Figma**
-
-### 📄 Docs
-- **Obsidian**
-- **Microsoft Word**
-- **Microsoft Excel**
-- **Microsoft Access**
-- **Microsoft PowerPoint**
-<br><br>
-</details>
-<details>
-<summary>
-<h1>💻 Work</h1>
-</summary>
-
-## Offical
-
-| Organization | Position | Period |
+## Programing
+| # | Language | Desc |
 | - | - | - |
-| [Tolyatti Polytechnic College](https://tpcol.ru) | Programmer | August 2024 - October 2024 |
-| [Tolyatti Polytechnic College](https://tpcol.ru) | Web Development Teacher | September 2024 - Present |
-| [Tolyatti Polytechnic College](https://tpcol.ru) | System Administrator | October 2024 - Present |
-| [Tolyatti Polytechnic College](https://tpcol.ru) | Technical Lead, Microprocessors Lab | January 2025 - Present |
+| 1 | C | ARM-based microcontollers & microprocessors |
+| 2 | C++ | Sort of |
+| 3 | C# | CRUD Applications on WinForms & WPF |
+| 4 | PHP | Basic & Symfony |
+| 5 | JavaScript & NodeJS | full-cycle CRUD (Application & API) |
+| 6 | Lua | - |
+| 7 | MySQL & Transact-SQL | - |
+| 8 | QSP | Creating modular systems for quests |
 
-<br><br>
-</details>
-<details>
-<summary>
-<h1>🕹️ Projects</h1>
-</summary>
-  
-## Modifications
-  
-  - **[NET Online](https://netonline.team)**
-</details>
+## Projects & Engines
+| # | Engine | Project | Desc |
+| - | - | - | - |
+| 1 | IX-Ray Engine | [NET Online](https://netonline.team) | UI/UX, Gamemodes (TDM-Modes), Improving the UI system (Support for all resolutions and ratios, adaptive interface) |
+| 2 | Unity | [Marshmallow Stories](https://1163.itch.io/mstories) (Temporarily abandoned) | All Textures, All Models, Programming, Game Design |
+| 3 | Quest Soft Player | An unannounced quest | Full-fledged timestamp operation, implementation of modules and a common database of subjects and localization |
+
+## Graphics
+| # | Photo & Paint | Vector | 3D | Web |
+| - | ----- | ------ | -- | --- |
+| 1 | Photoshop | Illustrator | 3Ds Max | Figma |
+| 2 | Krita     |             | Blender |       |
+| 3 | Substance Painter     |             |         |       |
